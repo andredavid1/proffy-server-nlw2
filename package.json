@@ -1,0 +1,9 @@
+{
+  "name": "proffy-server",
+  "version": "1.0.0",
+  "description": "Backend da aplicação",
+  "main": "index.js",
+  "repository": "https://github.com/andredavid1/proffy-server",
+  "author": "andredavid1",
+  "license": "MIT"
+}
